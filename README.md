@@ -44,12 +44,11 @@ LifeLink/
 ├── dashboard.php
 ├── config.php
 └── README.md
+-------------------------
 
-
-
-
-
-## 👩‍💻 Developed By
+### 👩‍💻 Developed By
 Jithina M. V.
 
 BCA Student | Aspiring Full Stack Developer
+
+
