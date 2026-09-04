@@ -49,6 +49,6 @@ LifeLink/
 ##👩‍💻 Developed By
 Jithina M. V.
 
-BCA Student | Aspiring Full Stack Developer
+BCA Student | Aspiring Full Stack Developer**
 
 
