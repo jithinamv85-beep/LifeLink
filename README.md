@@ -37,13 +37,101 @@ LifeLink aims to make the process easier by connecting patients, donors, hospita
 
 ```text
 LifeLink/
-├── index.php
-├── login.php
-├── logout.php
-├── donor_registration.php
-├── dashboard.php
-├── config.php
-└── README.md
 
+│
+
+├── Admin/
+
+│   ├── dashboard.php
+
+│   ├── Emergency_Alerts.php
+
+│   ├── Emergency_Response.php
+
+│   └── Settings.php
+
+│
+
+├── Assets/
+
+│   └── Images/
+
+│       ├── blood.png
+
+│       ├── hero.png
+
+│       └── LifeLink Blood.png
+
+│
+
+├── Config/
+
+│   └── db.php
+
+│
+
+├── Hospital/
+
+│   └── dashboard.php
+
+│
+
+├── Modules/
+
+│   ├── Blood_Request.php
+
+│   ├── Blood_Stock.php
+
+│   ├── Certificate.php
+
+│   ├── Donation_History.php
+
+│   ├── Donor_Location.php
+
+│   ├── Donor_Notification.php
+
+│   ├── Donor_Registration.php
+
+│   ├── Donor_Search.php
+
+│   ├── Donor_Tag_Tracker.php
+
+│   ├── Emergency_Alert.php
+
+│   ├── Hospital_Manage.php
+
+│   ├── Matching_Donors.php
+
+│   ├── Nearby_Donors.php
+
+│   ├── Security.php
+
+│   └── View_Donors.php
+
+│
+
+├── Uploads/
+
+│   └── [profile/uploaded images]
+
+│
+
+├── dashboard.php
+
+├── Donor_Registration.php
+
+├── index.php
+
+├── login.php
+
+├── logout.php
+
+├── Notifications.php
+
+├── Profile.php
+
+├── Registration.php
+
+└── Upload_Photo.php
 
 
