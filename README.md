@@ -134,4 +134,13 @@ LifeLink/
 
 └── Upload_Photo.php
 
+## 📸 Project Screenshots
 
+### 🏠 Home Page
+![LifeLink Home Page](Screenshot%202026-09-04%20173157.png)
+
+### 📊 Dashboard
+![LifeLink Dashboard](Screenshot%202026-09-04%20205808.png)
+
+### 🩸 Donor Registration
+![LifeLink Donor Registration](Screenshot%202026-09-04%20205856.png)
