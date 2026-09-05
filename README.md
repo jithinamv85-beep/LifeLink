@@ -94,7 +94,12 @@ LifeLink/
 
 ![LifeLink Home Page](Screenshot%202026-09-04%20205808.png)
 
-### 🔐
+### 🔐 Login page
+
+![LifeLink Login Page](Screenshot 2026-09-05 085524.png).
+
+### 🔗 Register Page
+![LifeLink Register Page]
 ### 📊 Dashboard
 
 ![LifeLink Dashboard](Screenshot%202026-09-04%20205856.png)
