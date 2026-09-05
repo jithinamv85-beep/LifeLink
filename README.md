@@ -94,6 +94,7 @@ LifeLink/
 
 ![LifeLink Home Page](Screenshot%202026-09-04%20205808.png)
 
+### 🔐
 ### 📊 Dashboard
 
 ![LifeLink Dashboard](Screenshot%202026-09-04%20205856.png)
