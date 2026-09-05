@@ -96,11 +96,11 @@ LifeLink/
 
 ### 🔐 Login Page
 
-![LifeLink Login Page](Screenshot%202026-09-05%20085553.png)
+![LifeLink Login Page](Screenshot%202026-09-05%20085524.png)
 
 ### 🔗 Register Page
 
-![LifeLink Register Page](Screenshot%202026-09-05%20085524.png)
+![LifeLink Register Page](Screenshot%202026-09-05%20085553.png)
 
 ### 📊 Dashboard
 
