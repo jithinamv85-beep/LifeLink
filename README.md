@@ -92,12 +92,12 @@ LifeLink/
 
 ### 🏠 Home Page
 
-![LifeLink Home Page](Screenshot%202026-09-04%20173157.png)
+![LifeLink Home Page](Screenshot%202026-09-04%20205808.png)
 
 ### 📊 Dashboard
 
-![LifeLink Dashboard](Screenshot%202026-09-04%20205808.png)
+![LifeLink Dashboard](Screenshot%202026-09-04%20205856.png)
 
-### 🩸 Donor Registration
+### 🩸 Donor Dashboard and Upload profile
 
-![LifeLink Donor Registration](Screenshot%202026-09-04%20205856.png)
+![LifeLink Donor Registration](Screenshot%202026-09-04%20173157.png)
